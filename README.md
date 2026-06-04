@@ -40,4 +40,13 @@ Atlas transforms large volumes of external data into actionable intelligence usi
 
 ## Current Status
 
-Project initialized.
+- Repository initialized
+- Project vision defined
+- Python Fundamentals in progress
+- Atlas Architecture v0.1 in planning
+
+## Founder
+
+Vuyo Nicholas Thys
+
+Building Atlas in public while learning software engineering, backend systems, data engineering, and AI.
